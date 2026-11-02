@@ -1,1 +1,0 @@
-The design is 99% accurate.
