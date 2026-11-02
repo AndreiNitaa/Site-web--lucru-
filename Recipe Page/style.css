@@ -1,0 +1,25 @@
+body {
+    background-color: #F3E5D8;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.parinte {
+    min-height: 85vh;
+    border: 2px solid white;
+    border-radius: 15px;
+    min-width: 45vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+img
+{
+    max-width: 40vh;
+    border-radius: 7px;
+    transform: translateY(-30.5vh)
+}
